@@ -12,14 +12,14 @@ Usage of Jamer-Spammer for assaulting targets without earlier common assent is i
 ```
 Linux:
 git clone https://github.com/Jamer05/Jamer-Spammer
-pip install pyautogui
+pip install -r requirements.txt
 cd Jamer-Spammer
 python3 Jamer-Spammer.py
 
 Windows
 
 git clone https://github.com/Jamer05/Jamer-Spammer
-pip install pyautogui
+pip install -r requirements.txt
 cd Jamer-Spammer
 python Jamer-Spammer.py
 
@@ -28,4 +28,4 @@ python Jamer-Spammer.py
 ### Donate!
 Support the authors:
 
-<noscript><a href=""><img alt="Donate using PayPal" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-small.png"></a></noscript>
+<noscript><a href=" paypal.me/jamer05 a"><img alt="Donate using PayPal" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-small.png"></a></noscript>
