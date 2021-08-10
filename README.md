@@ -28,4 +28,4 @@ python Jamer-Spammer.py
 ### Donate!
 Support the authors:
 
-<noscript><a href=" paypal.me/jamer05 a"><img alt="Donate using PayPal" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-small.png"></a></noscript>
+<noscript><a href=" paypal.me/jamer05"><img alt="Donate using PayPal" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-small.png"></a></noscript>
